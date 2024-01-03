@@ -1,7 +1,3 @@
-Enhancing the README for `cleanse_data.ipynb` involves providing a detailed overview of the notebook's content, purpose, and instructions for use. Below is an enhanced version of your README:
-
----
-
 # Data Cleansing Tutorial for Austin MetroBike Trips
 
 ## Overview
